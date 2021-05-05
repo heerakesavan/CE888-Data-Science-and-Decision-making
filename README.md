@@ -12,3 +12,5 @@ EDA and Model Files in Folder Project 2
 Path : CE888-Data-Science-and-Decision-making/Project Assignment 1/Project 2/
 
 Lab 10 Repository : https://github.com/heerakesavan/heartuci
+
+Lab 4 and Lab 2 are twice but both have same codes
